@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**MateusReal10/MateusReal10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### Olá eu sou o Mateus Alves 🖐️
 
-Here are some ideas to get you started:
+ [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mateusaalves_)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusReal10&show_icons=true&theme=dark)
+
+ ## Tecnologias que uso no meu dia
+
+ <div style="display": inline_block><br/>
+  <img align="center" alt="Html5" scr="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img align="center" alt="CSS" scr="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+
+<img align="center" alt="Java Script" scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  ## Apaixonado por tecnologia, e atualmente cursando Análise e desenvolvimento de sistemas. 💻💙
+
+  </div>
