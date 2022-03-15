@@ -8,12 +8,11 @@
 
  ## Tecnologias que uso no meu dia
 
- <div style="display": inline_block><br/>
-  <img align="center" alt="Html5" scr="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
-<img align="center" alt="CSS" scr="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-<img align="center" alt="Java Script" scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
   ## Apaixonado por tecnologia, e atualmente cursando Análise e desenvolvimento de sistemas. 💻💙
 
