@@ -14,5 +14,5 @@
 
 ![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
-  ## Amante da tecnologia tecnologia
+  ## Amante da tecnologia 
   </div>
